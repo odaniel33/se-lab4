@@ -1,0 +1,3 @@
+#Firing when the targeted store reports failure
+GT4500,0,0,2,1.0
+TORPEDO,SINGLE

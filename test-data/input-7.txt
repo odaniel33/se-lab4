@@ -1,0 +1,3 @@
+#Single fire with empty stores
+GT4500,0,0,0,0
+TORPEDO,SINGLE
